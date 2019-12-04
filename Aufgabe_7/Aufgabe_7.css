@@ -1,0 +1,125 @@
+body{
+    background-image:url("images/weihnachten.jpg");
+}
+div {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#button1{
+    width: 150px;
+    height: 150px;
+    border: 5px;
+    border-radius: 3px;
+    background-image: linear-gradient(rgb(30, 210, 255), rgb(3, 3, 143));
+    float: left;
+    margin: 2px;
+}
+#button1:hover {
+    background-image: linear-gradient(rgb(30, 210, 255), rgb(3, 3, 143));
+}
+#button2 {
+    width: 150px;
+    height: 150px;
+    border: 5px;
+    border-radius: 3px;
+    background-image: linear-gradient(rgb(30, 210, 255), rgb(3, 3, 143));
+    float: left;
+    margin: 2px;
+}
+#button2:hover {
+    background-image: linear-gradient(rgb(30, 210, 255), rgb(3, 3, 143));
+}
+#button3 {
+    width: 150px;
+    height: 150px;
+    border: 5px;
+    border-radius: 3px;
+    background-image: linear-gradient(rgb(30, 210, 255), rgb(3, 3, 143));
+    float: left;
+    margin: 2px;
+}
+#button3:hover {
+    background-image: linear-gradient(rgb(30, 210, 255), rgb(3, 3, 143));
+}
+#button4 {
+    width: 150px;
+    height: 150px;
+    border: 5px;
+    border-radius: 3px;
+    background-image: linear-gradient(rgb(14, 248, 33), rgb(4, 150, 4));
+    float: left;
+    margin: 2px;
+}
+#button4:hover {
+    background-image: linear-gradient(rgb(14, 248, 33), rgb(4, 150, 4));
+}
+#button5 {
+    width: 150px;
+    height: 150px;
+    border: 5px;
+    border-radius: 3px;
+    background-image: linear-gradient(rgb(14, 248, 33), rgb(4, 150, 4));
+    float: left;
+    margin: 2px;
+}
+#button5:hover {
+    background-image: linear-gradient(rgb(14, 248, 33), rgb(4, 150, 4));
+}
+#button6 {
+    width: 150px;
+    height: 150px;
+    border: 5px;
+    border-radius: 3px;
+    background-image: linear-gradient( rgb(14, 248, 33), rgb(4, 150, 4));
+    float: left;
+    margin: 2px;
+}
+#button6:hover {
+    background-image: linear-gradient( rgb(14, 248, 33), rgb(4, 150, 4));
+}
+#button7 {
+    width: 150px;
+    height: 150px;
+    border: 5px;
+    border-radius: 3px;
+    background-image: linear-gradient(rgb(14, 248, 33), rgb(4, 150, 4));
+    float: left;
+    margin: 2px;
+}
+#button7:hover {
+    background-image: linear-gradient(rgb(14, 248, 33), rgb(4, 150, 4));
+}
+#button8 {
+    width: 150px;
+    height: 150px;
+    border: 5px;
+    border-radius: 3px;
+    background-image: linear-gradient(rgb(255, 31, 31), rgb(179, 0, 0));
+    float: left;
+    margin: 2px;
+}
+#button8:hover {
+    background-image: linear-gradient(rgb(255, 31, 31), rgb(179, 0, 0));
+}
+#button9 {
+    width: 150px;
+    height: 150px;
+    border: 5px;
+    border-radius: 3px;
+    background-image: linear-gradient(rgb(255, 31, 31), rgb(179, 0, 0));
+    float: left;
+    margin: 2px;
+}
+#button9:hover {
+    background-image: linear-gradient(rgb(255, 31, 31), rgb(179, 0, 0));
+}
+
+.play {
+    position: absolute;
+    top: 110%;
+    left: 50%;
+    transform: translate(-50%, -100%);
+}
