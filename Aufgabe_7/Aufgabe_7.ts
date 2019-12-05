@@ -77,7 +77,7 @@ function startBeat(){
         myMusic.play();
         index += 1;
         if (index<9) index = 0;
-    }
+    };
 }
 window.addEventListener("load", function(){
     document.querySelector(".play").addEventListener("click", startBeat)
