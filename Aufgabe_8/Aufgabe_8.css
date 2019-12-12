@@ -1,0 +1,222 @@
+body {
+    background-color: darkred;
+}
+
+#mainDiv {
+    position: relative;
+    top: 0px;
+    left: 35%;
+}
+
+#button1 {
+    display: inline-block;
+    position: relative;
+    float: left;
+    top: 0px;
+    left: 10px;
+    width: 150px;
+    height: 150px;
+    background-color: blue;
+    border-radius: 8px;
+    cursor: pointer;
+    margin: 5px;
+}
+
+#button1:hover {
+    opacity: 0.8;
+}
+
+#button2 {
+    display: inline-block;
+    position: relative;
+    float: left;
+    top: 0px;
+    left: 10px;
+    width: 150px;
+    height: 150px;
+    background-color: blue;
+    border-radius: 8px;
+    cursor: pointer;
+    margin: 5px;
+}
+
+#button2:hover {
+    opacity: 0.8;
+}
+
+#button3 {
+    display: inline-block;
+    position: relative;
+    float: left;
+    top: 0px;
+    left: 10px;
+    width: 150px;
+    height: 150px;
+    background-color: blue;
+    border-radius: 8px;
+    cursor: pointer;
+    margin: 5px;
+}
+
+#button3:hover {
+    opacity: 0.8;
+}
+
+#button4 {
+    display: inline-block;
+    position: relative;
+    float: left;
+    clear: both;
+    top: 0px;
+    left: 10px;
+    width: 150px;
+    height: 150px;
+    background-color: mediumvioletred;
+    border-radius: 8px;
+    cursor: pointer;
+    margin: 5px;
+}
+
+#button4:hover {
+    opacity: 0.8;
+}
+
+#button5 {
+    display: inline-block;
+    position: relative;
+    float: left;
+    top: 0px;
+    left: 10px;
+    width: 150px;
+    height: 150px;
+    background-color: mediumvioletred;
+    border-radius: 8px;
+    cursor: pointer;
+    margin: 5px;
+}
+
+#button5:hover {
+    opacity: 0.8;
+}
+
+#button6 {
+    display: inline-block;
+    position: relative;
+    float: left;
+    top: 0px;
+    left: 10px;
+    width: 150px;
+    height: 150px;
+    background-color: mediumvioletred;
+    border-radius: 8px;
+    cursor: pointer;
+    margin: 5px;
+}
+
+#button6:hover {
+    opacity: 0.8;
+}
+
+#button7 {
+    display: inline-block;
+    position: relative;
+    float: left;
+    clear: both;
+    top: 0px;
+    left: 10px;
+    width: 150px;
+    height: 150px;
+    background-color: mediumvioletred;
+    border-radius: 8px;
+    cursor: pointer;
+    margin: 5px;
+}
+
+#button7:hover {
+    opacity: 0.8;
+}
+
+#button8 {
+    display: inline-block;
+    position: relative;
+    float: left;
+    top: 0px;
+    left: 10px;
+    width: 150px;
+    height: 150px;
+    background-color: orange;
+    border-radius: 8px;
+    cursor: pointer;
+    margin: 5px;
+}
+
+#button8:hover {
+    opacity: 0.8;
+}
+
+#button9 {
+    display: inline-block;
+    position: relative;
+    float: left;
+    top: 0px;
+    left: 10px;
+    width: 150px;
+    height: 150px;
+    background-color: orange;
+    border-radius: 8px;
+    cursor: pointer;
+    margin: 5px;
+}
+
+#button9:hover {
+    opacity: 0.8;
+}
+
+#microphone {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    color: black;
+    font-size: 90px;
+    top: 500px;
+    left: 100px;
+    float: left;
+    cursor: pointer;
+
+}
+
+#microphone:hover {
+    opacity: 0.8;
+}
+
+#playbutton {
+    position: absolute;
+    left: 190px;
+    top: 500px;
+    font-size: 90px;
+    width: 100px;
+    height: 100px;
+    float: left;
+    cursor: pointer;   
+    color: black;
+}
+
+#playbutton:hover {
+    opacity: 0.8;
+}
+
+#trash {
+    position: absolute;
+    float: left;
+    left: 300px;
+    top: 500px;
+    font-size: 90px;
+    width: 100px;
+    height: 100px;
+    color: black;
+    cursor: pointer;
+}
+
+#trash:hover {
+    opacity: 0.8;
+}
